@@ -31,6 +31,14 @@
         "url": "https://openshift-release.apps.ci.l2s4.p1.openshiftapps.com/releasestream/4.6.0-0.nightly/release/4.6.0-0.nightly-2020-09-17-034746",
 	"io.openshift.upgrades.graph.release.channels": "channel-a,channel-b,nightly-4.6"
       }
+    },
+    {
+      "version": "4.6.0-0.nightly-2020-09-27-224533",
+      "payload": "registry.svc.ci.openshift.org/ocp/release@sha256:41288f2afd383e76034192bc0c89c968f37208d41e8126d1d3564a53abfbffdc",
+      "metadata": {
+        "url": "https://openshift-release.apps.ci.l2s4.p1.openshiftapps.com/releasestream/4.6.0-0.nightly/release/4.6.0-0.nightly-2020-09-15-131420",
+	"io.openshift.upgrades.graph.release.channels": "channel-a,channel-b,nightly-4.6"
+      }
     }
   ],
   "edges": [
